@@ -18,14 +18,15 @@ Um documento HTML começa com a tag HTML e termina com a marca /HTML. Ele també
 <div></div> – Define uma divisão da página.
 
 02 - Tags de conteúdo
+
 02.01 - De título 
 
-<h1></h1> - Título de maior valor hierárquico
-<h2></h2>
-<h3></h3>
-<h4></h4>
-<h5></h5>
-<h6></h6> - Título de menor valor hierárquico
+<h1> </h1> - Título de maior valor hierárquico
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6> - Título de menor valor hierárquico
 
 02.02 - Tags de texto
 
@@ -39,8 +40,9 @@ Um documento HTML começa com a tag HTML e termina com a marca /HTML. Ele també
 
 ### Estililização de tags html
 01 - cor 
+
 body {
-    color: #333;
+  color: #333;
 }
 
 02 - fonte
